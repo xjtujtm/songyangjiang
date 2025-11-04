@@ -1,2 +1,2 @@
 This is a personal homepage of Songyang Jiang, which referred [Yixin0313/personal-homepage-template](https://github.com/Yixin0313/personal-homepage-template).  <br>
-This project has been deployed on [Songyang Jiang's Personal Homepage](https://xjtujtm.github.io/songyangjiang.github.io/).
+This project has been deployed on [Songyang Jiang's Personal Homepage](https://xjtujtm.github.io/songyangjiang/).

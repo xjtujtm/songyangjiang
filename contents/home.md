@@ -31,7 +31,7 @@ I'm currently pursuing a Bachelor's degree in Electrical Engineering and its Aut
 ---
 
 #### 研究方向
-阵列电流传感器，电弧故障检测
+电力电子变压器，阵列电流传感器，电弧故障检测
 
 #### Research Interests  
-Array Current Transducer, Arc Fault Detection
+Power Electronic Transformer, Array Current Transducer, Arc Fault Detection

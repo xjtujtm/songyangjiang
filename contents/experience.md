@@ -7,8 +7,6 @@
 • 导师：皇甫幼朋 教授 <br>
 • 预期构建完善的矩形阵列霍尔电流传感器磁场分布理论解析模型，重点揭示邻近效应与集肤效应影响测量精度的关键机理；基于该模型指导，研制宽频率、高精度工程验证样机一套；预期发表核心期刊论文一篇。<br>
 
----
-
 <p style="text-align:left;"><b>Research and Application of Polarization Imaging Model through Glass and Film</b><span style="float:right;">April 2024 - June 2025</span></p>
 • Supervisor: A. Prof. Ruifeng Liu<br>
 • Developed a real-time dynamic decoupling imaging system based on the LabVIEW platform. Through experimental verification, the proposed core algorithm can effectively reconstruct the target light field information, significantly improve the signal-to-noise ratio and contrast of the target in the image, and thus effectively improve the imaging quality in the scene of transmission reflection coupling.  <br>

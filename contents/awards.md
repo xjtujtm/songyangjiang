@@ -1,3 +1,7 @@
+- 西安交通大学少年班入选者
+
+- 西安交通大学珠峰计划入选者
+
 - 中国大学生学术物理竞赛（CUPT）西北赛区辩论赛省一等奖，2024.
 
 - 西安交通大学校级三等奖学金，2024.
@@ -9,7 +13,9 @@
 
 - 西安交通大学“1996级电气校友奖学金—张文波&张静伉俪奖学金”，2025.
 
----
+- Xi'an Jiaotong University Young Gifted Program
+
+- Xi'an Jiaotong University Everest Program
 
 - China Undergraduate Physics Tournament(CUPT) Northwest Division Debate Competition Provincial First Prize, 2024.
 

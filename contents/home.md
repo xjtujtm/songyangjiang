@@ -8,12 +8,12 @@ I'm currently pursuing a Bachelor's degree in Electrical Engineering and its Aut
 <code>jiangsongyang@stu.xjtu.edu.cn</code>  
 
 #### 教育经历
-**西安交通大学** &ensp; 少年班 &ensp; 预科 &ensp; （2022年9月‑2024年6月）<br>
+**西安交通大学** &ensp; 少年班 &ensp; （2022年9月‑2024年6月）<br>
 **西安交通大学** &ensp; 电气工程及其自动化 &ensp; 本科 &ensp;（2024年9月‑至今）<br>
 导师：祝令瑜 教授 <br>
 
 #### Education  
-**Xi'an Jiaotong University**, Young Gifted Program, Pre-college student (2022.9 – 2024.6) <br>
+**Xi'an Jiaotong University**, Young Gifted Program (2022.9 – 2024.6) <br>
 **Xi'an Jiaotong University**, Electrical Engineering and its Automation, Undergraduate (2024.9 ‑ So far) <br>
 Supervisor: Prof. Lingyu Zhu <br>
 
